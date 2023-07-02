@@ -30,7 +30,7 @@ Bu proje, akıllı asistanlar ve akıllı saatler aracılığıyla kontrol edile
    2- Kodları ESP8266 tabanlı cihazınıza yükleyin.
 
 ## Kullanım
-1 - Akıllı asistanlarınızı veya telefonunuzu ESP8266 cihazına bağlayın.
+1- Akıllı asistanlarınızı veya telefonunuzu ESP8266 cihazına bağlayın.
 2- ESP8266 cihazının üzerindeki butonları veya telefon/akıllı saat uygulamasını kullanarak cihazı kontrol edin.
 3- Cihazı konum tespiti için kullanın ve akıllı saatleriniz üzerinden izleme yapın.
 4- Röle kontrolü ile cihazları etkinleştirin veya devre dışı bırakın.
