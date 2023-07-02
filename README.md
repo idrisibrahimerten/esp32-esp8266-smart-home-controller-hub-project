@@ -22,15 +22,12 @@ Bu proje, akıllı asistanlar ve akıllı saatler aracılığıyla kontrol edile
 3. Bu repo'yu klonlayın:
 
    ```shell
-   git clone https://github.com/kullanici_adi/proje-adı.git ```
+   git clone https://github.com/kullanici_adi/proje-adı.git
 
-1- İndirdiğiniz klasöre gidin:
+   1- İndirdiğiniz klasöre gidin:
+   cd proje-adı
 
-
-   ```shell
-   cd proje-adı ```
-
-2- Kodları ESP8266 tabanlı cihazınıza yükleyin.
+   2- Kodları ESP8266 tabanlı cihazınıza yükleyin.
 
 ## Kullanım
 1 - Akıllı asistanlarınızı veya telefonunuzu ESP8266 cihazına bağlayın.
