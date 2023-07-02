@@ -6,7 +6,7 @@ Bu proje, akıllı asistanlar ve akıllı saatler aracılığıyla kontrol edile
 
 - Akıllı asistanlarla (örneğin, Siri, Google Asistan) ve akıllı saatlerle uyumlu olarak çalışma
 - Telefon üzerinden kontrol sağlama
-- Konum tespiti ve izleme
+- Konum tespiti ve bu tespit üzerinden cihaz kontrolü
 - Röle kontrolü ile cihazları etkinleştirme/devre dışı bırakma
 
 ## Gereksinimler
